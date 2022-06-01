@@ -121,15 +121,21 @@ p {
   color: #ffffff;
 }
 
-.social-media-marketing {
+/* .social-media-marketing {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
+} */
+ /* .online-reputation-management img {
+    max-height: 200px;
 }
-*/
+
+.social-media-marketing img {
+    max-height: 200px;
+}  */
 
 /* consolidated services and (img class/tag) */
 .services img {
@@ -189,13 +195,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/* .online-reputation-management img {
-    max-height: 200px;
-}
 
-.social-media-marketing img {
-    max-height: 200px;
-} */
 
 /* consolidated services and h2 classes/tag */
 /* .online-reputation-management h2 {
