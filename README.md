@@ -3,6 +3,7 @@
 
 The assignment is to refactor code 
 for a companies web page without changing the functionality. 
+The project is available on my Github. (It is still in progress, I have recenently found an issuem with deploying the page via Safari.)
 
 
 # Hi, I'm Svante' (Suh-Von-Tay)! 👋
