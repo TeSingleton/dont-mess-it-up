@@ -11,7 +11,7 @@ The task is to refactor a page(clean up the code)to better
 
 
 ## 🚀 About Me
-I'm a full stack developer in training. 
+I'm a full stack developer in training....
 
 
 
